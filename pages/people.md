@@ -9,7 +9,7 @@ permalink: /people
 ## Ediacaran Subcommission Officers
 
 <div class="person">
-    <img src="/images/person-laflamme.jpg" alt="" style="width:300px" />
+    <img src="/subcommission-ediacaran/images/person-laflamme.jpg" alt="" style="width:300px" />
     <h4>Chair: Marc Laflamme</h4>
     <p>
         Deptment of Chemical and Physical Sciences<br />
@@ -18,7 +18,7 @@ permalink: /people
     </p>
 </div>
 <div class="person">
-    <img src="/images/person-schiffbauer.jpg" alt="" style="width:300px" />
+    <img src="/subcommission-ediacaran/images/person-schiffbauer.jpg" alt="" style="width:300px" />
     <h4>Vice-Chair: James Schiffbauer</h4>
     <p>
         Department of Geological Sciences<br />
@@ -27,7 +27,7 @@ permalink: /people
     </p>
 </div>
 <div class="person">
-    <img src="/images/person-warren.jpg" alt="" style="width:300px" />
+    <img src="/subcommission-ediacaran/images/person-warren.jpg" alt="" style="width:300px" />
     <h4>Vice-Chair: Lucas Warren</h4>
     <p>
         Department of Applied Geology<br />
