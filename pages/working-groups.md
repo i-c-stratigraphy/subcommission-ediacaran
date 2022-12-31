@@ -9,6 +9,7 @@ permalink: /working-groups
 ## Second Ediacaran Stage Working Group
 
 ### ​Chair: Chuanming Zhou
+<img src="/subcommission-ediacaran/images/person-zhou2.png" alt="Zhou" style="width:300px" />
 
 <div style="display:grid;">
     <div style="grid-column:1;">
@@ -65,6 +66,7 @@ permalink: /working-groups
 ## ​​Terminal Ediacaran Stage Working Group
 
 ### ​Chair: Guy Narbonne
+<img src="/subcommission-ediacaran/images/person-narbonne2.png" alt="Zhou" style="width:300px" />
 
 <div style="display:grid;">
     <div style="grid-column:1;">
@@ -115,6 +117,7 @@ permalink: /working-groups
 The Upper Ediacaran Series (UESr) Working Group was established in 2018 with Jim Schiffbauer as the chair and a slate of 15 voting members. The purpose of the UESr is to initiate the discussion on criteria to define the Upper Ediacaran Series. Thus far...
 
 ### ​Chair: Jim Schiffbauer
+<img src="/subcommission-ediacaran/images/person-schiffbauer2.png" alt="Zhou" style="width:300px" />
 
 <div style="display:grid;">
     <div style="grid-column:1;">

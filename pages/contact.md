@@ -6,8 +6,12 @@ permalink: /contact
 
 # Contact
 
-For questions or if you would like to add information to the website please fill out the following form.
+For questions or if you would like to add information to the website please contact:
 
+* **[Ediacaran Subcommission Officers](/subcommission-ediacaran/people)**
+* **[International Commission on Stratigraphy's Exectutive](https://stratigraphy.org/executive)**
+
+<!--
 <form class="contact">
     <div style="grid-row: 1; grid-column: 1;">
         <label for="given_name">Given Name:</label>
@@ -34,3 +38,4 @@ For questions or if you would like to add information to the website please fill
         <textarea name="message" style="width:350px; height:150px;"></textarea>
     </div>
 </form>
+-->
