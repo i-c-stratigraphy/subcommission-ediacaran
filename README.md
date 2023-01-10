@@ -23,6 +23,9 @@ bundle exec jekyll serve
 
 to fix dependencies for Ruby 3: `bundle update` && `bundle install` then `bundle add webrick`
 
+Previous website at <https://sites.google.com/view/ediacaran/home>
+
+
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:
 
