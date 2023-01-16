@@ -10,17 +10,17 @@ Here you will find all the resources to keep up to date.
 
 ## Edies Newsletters
 
-* 2022 Newsletter [(Edies No. 9)](/subcommission-ediacaran/files/Edies_09_2022.pdf)
+* 2022 Newsletter [(Edies No. 9)](/files/Edies_09_2022.pdf)
     * _there was no Edies for 2021_
-* 2020 Newsletter [(Edies No. 8)](/subcommission-ediacaran/files/Edies_08_2020.pdf)
-* 2019 Newsletter [(Edies No. 7)](/subcommission-ediacaran/files/Edies_07_2019.pdf)
-* 2018 Newsletter [(Edies No. 6)](/subcommission-ediacaran/files/Edies_06_2018.pdf)
-* 2017 Newsletter [(Edies No. 5)](/subcommission-ediacaran/files/Edies_05_2017.pdf)
-* 2016 Newsletter [(Edies No. 4)](/subcommission-ediacaran/files/Edies_04_2016.pdf)
+* 2020 Newsletter [(Edies No. 8)](/files/Edies_08_2020.pdf)
+* 2019 Newsletter [(Edies No. 7)](/files/Edies_07_2019.pdf)
+* 2018 Newsletter [(Edies No. 6)](/files/Edies_06_2018.pdf)
+* 2017 Newsletter [(Edies No. 5)](/files/Edies_05_2017.pdf)
+* 2016 Newsletter [(Edies No. 4)](/files/Edies_04_2016.pdf)
     * 2016 Ediacaran Subcommission White Paper ([Episodes, 2016, v. 39, p. 540-555](https://doi.org/10.18814/epiiugs/2016/v39i4/103886))
-* 2015 Newsletter [(Edies No. 3)](/subcommission-ediacaran/files/Edies_03_2015.pdf)
-* 2014 Newsletter [(Edies No. 2)](/subcommission-ediacaran/files/Edies_02_2014.pdf)
-* 2013 Newsletter [(Edies No. 1)](/subcommission-ediacaran/files/Edies_01_2013.pdf)
+* 2015 Newsletter [(Edies No. 3)](/files/Edies_03_2015.pdf)
+* 2014 Newsletter [(Edies No. 2)](/files/Edies_02_2014.pdf)
+* 2013 Newsletter [(Edies No. 1)](/files/Edies_01_2013.pdf)
 
 ## Events
 
