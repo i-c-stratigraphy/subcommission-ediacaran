@@ -6,6 +6,16 @@ permalink: /
 
 Official homepage of the **International Subcommission on Ediacaran Stratigraphy** (ISCS) a subcommission of the [International Commission of Stratigraphy](https://stratigraphy.org) and the [International Union of Geological Sciences](http://www.iugs.org).
 
+<div style="text-align:center;">
+    <div style="margin: 0 auto; width:320px; border:solid 2px #FED96A; padding:10px;">
+        <h3>Newfoundland Fieldtrip</h3>
+        <div style="text-align:left;">
+            <p>We are currently working on arranging a field trip to the Newfoundland on August, 2025.</p>
+            <p>Information about this trip will shortly be made available on our <a href="/field-trips">Field Trips web page</a>.</p>
+        </div>
+    </div>
+</div>
+
 ## Objectives
 
 The Subcommission works towards three main goals:

@@ -24,6 +24,8 @@ Here you will find all the resources to keep up to date.
 
 ## Events
 
+* 2025 Ediacaran Subcommission Fieldtrip to the Newfoundland August 4–12, 2025, to be led by Guy Narbonne, Alex Liu, and Marc Laflamme.
+* 2023 Ediacaran Subcommission Fieldtrip together with members of the Cryogenian and Cambrian subcommissions to explore the Neoproterozoic to Cambrian Bambuí Group in Minas Gerais, Brazil, November 2023, led by Lucas Warren. [Click here to view our report](/files/ICS-Ediacaran-Subcommission-Field-Trip-Bambui-Group-Brazil.pdf) 
 * 2019 Subcommission field workshop in Guadalupe, Extremadura, Spain, October 17-24, 2019, led by Soren Jensen, Javier Alvaro, and their colleagues. See <http://www.geoparquevilluercas.es/imect2019/?lang=en>, [Flyer](https://drive.google.com/open?id=17H8juW0VdHDzNy0wBgi9hkgzwWbw1NCZ), [Second Circular](https://drive.google.com/open?id=1i2NcNv1G8-ksOcP6BCsPXSo9qgu_XAsj); [Third Circular](https://drive.google.com/open?id=1iMcmR4smznT_YRCXxjP_A0NYJZXGiWGo).
 * 2019 STRATI, Milano, Italy, July 2–5, 2019; <http://www.strati2019.it/>
 * 2019 NAPC at University of California, Riverside, June 23-27, 2019; <https://napc2019.ucr.edu/>
